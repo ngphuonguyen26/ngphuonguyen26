@@ -1,8 +1,8 @@
-Hi 👋 My name is Nguyen Phuong Uyen
+Hi 👋 I'm Nguyen Phuong Uyen
 ============================
 * 🔭 I’m currently working on **DUT (The University of Science and Technology).**
 * 🌱 I’m currently learning **Information Technology - Japanese Language**
-* 🖥️  See my linkedin at [linkedin.uyen26](https://www.linkedin.com/in/npguyen26/)
+* 🖥️  See my linkedin at [linkedin.npguyen26](https://www.linkedin.com/in/npguyen26/)
 * ✉️  You can contact me at [npguyen26@gmail.com](mailto:npguyen26@gmail.com)
 
 ### Badges
