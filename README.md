@@ -1,18 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on DUT (The University of Science and Technology)<br>🌱 I’m currently learning Information Technology - Japanese Language<br>
+Hi 👋 My name is Nguyen Phuong Uyen
+============================
+* 🔭 I’m currently working on **DUT (The University of Science and Technology).**
+* 🌱 I’m currently learning **Information Technology - Japanese Language**
+* 🖥️  See my linkedin at [linkedin.uyen26](https://www.linkedin.com/in/npguyen26/)
+* ✉️  You can contact me at [npguyen26@gmail.com](mailto:npguyen26@gmail.com)
 
+### Badges
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siwoo._u/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/npguyen26) 
-
-# 💻 Tech Stack:
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ngphuonguyen26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="http://www.github.com/ngphuonguyen26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
