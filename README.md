@@ -7,4 +7,5 @@ Hi 👋 My name is Nguyen Phuong Uyen
 
 ### Badges
 
-<a href="http://www.github.com/ngphuonguyen26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ngphuonguyen26&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
