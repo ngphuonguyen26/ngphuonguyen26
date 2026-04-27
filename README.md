@@ -4,6 +4,7 @@ Hi 👋 I'm Nguyen Phuong Uyen
 * 🌱 I’m currently learning **Information Technology - Japanese Language**
 * 🖥️  See my linkedin at [linkedin.npguyen26](https://www.linkedin.com/in/npguyen26/)
 * ✉️  You can contact me at [npguyen26@gmail.com](mailto:npguyen26@gmail.com)
+* Ask me about: HTML, CSS, JavaScript, React, Java
 
 ### Badges
 
