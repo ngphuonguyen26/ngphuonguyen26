@@ -14,8 +14,4 @@ Hi 👋 I'm Nguyen Phuong Uyen
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngphuonguyen26&layout=compact" />
   </a>
   
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=ngphuonguyen26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
